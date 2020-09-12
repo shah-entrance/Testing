@@ -6,8 +6,8 @@ How to test your solution whether it works correctly or not:
   2. Now write the generator code in gen.cpp which varies according to the question.
   3. Run the test.bat file.
 
-Don't forget to place all these three files in same directory.
+Don't forget to place all these three files in same directory.   
 If your code faily on any test case then immediately input.txt opens which contains the test case on your logic failed.
 
-Thank You
+Thank You  
 Happy Coding.
